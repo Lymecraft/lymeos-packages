@@ -1,5 +1,5 @@
 # lymeos-packages
-Arch Linux Repo for LymeOS
+Arch Linux Repo for LymeOS [WIP]
 
 
 # GITHUB IS A MIRROR
